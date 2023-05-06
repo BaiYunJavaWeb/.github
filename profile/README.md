@@ -8,20 +8,20 @@
 
 ## 订单管理:
 
-![houtai](../houtai.png)
+![houtai](https://raw.githubusercontent.com/BaiYunJavaWeb/.github/main/profile/houtai.png)
 
 ## 商品管理:
 
-![shangpin](../shangpin.png)
+![shangpin](https://raw.githubusercontent.com/BaiYunJavaWeb/.github/main/profile/shangpin.png)
 
 ## 前台:
 
-![qiantai](../qiantai.png)
+![qiantai](https://raw.githubusercontent.com/BaiYunJavaWeb/.github/main/profile/qiantai.png)
 
 ## 订单:
 
-![dingdan](../dingdan.png)
+![dingdan](https://raw.githubusercontent.com/BaiYunJavaWeb/.github/main/profile/dingdan.png)
 
 ## 购物车
 
-![gouwuche](../gouwuche.png)
+![gouwuche](https://raw.githubusercontent.com/BaiYunJavaWeb/.github/main/profile/gouwuche.png)
